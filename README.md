@@ -1,4 +1,4 @@
 # Paython-Django-Social 
 
 
-Paython-Django-Social is a application which allow us to implment social implementation.
+Ellie- A social-plugin application developed in Python, using Django framework.
