@@ -1,4 +1,4 @@
-# Ellie
+# Maggie
 
 
-Ellie- A social-plugin application developed in Python, using Django framework.
+Maggie, is a simple social-plugin application developed in Python, using Django framework.
